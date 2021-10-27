@@ -1,0 +1,24 @@
+{
+  "name": "restapi_2021_datacovid",
+  "version": "1.0.0",
+  "description": "akses data covid menggunakan middleware axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvanbelajarit/restAPI_2021_datacovid.git"
+  },
+  "author": "Irvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvanbelajarit/restAPI_2021_datacovid/issues"
+  },
+  "homepage": "https://github.com/irvanbelajarit/restAPI_2021_datacovid#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
